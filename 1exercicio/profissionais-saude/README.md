@@ -1,3 +1,7 @@
+Resultado:
+![image](https://github.com/Letticia-Tonon/programacao_dipositivos_moveis/assets/102087529/e500e1a9-cff9-40ae-a61a-08b0e2d56f67)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
